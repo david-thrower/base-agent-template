@@ -37,7 +37,7 @@ collection = chroma_client.get_collection(f"{PROJECT_NAME}_knowledge", embedding
 model = InferenceClientModel(
   model_id="moonshotai/Kimi-K2.5",
     token=HF_TOKEN,
-    provider="firewors",
+    provider="fireworks-ai",
     temperature=0.8
 )
 

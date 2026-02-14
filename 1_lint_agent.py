@@ -100,4 +100,5 @@ moderation_section = """
 agent.prompt_templates["system_prompt"] = agent.prompt_templates["system_prompt"] + moderation_section
 
 # Launch Gradio UI
-GradioUI(agent).launch(share=True)
+answers = agent("Tell me all about the Platypus and similar mammals.")
+print(answers)

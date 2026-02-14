@@ -1,0 +1,31 @@
+
+# Core Vector DB & Embeddings (Required)
+chromadb>=0.5.0
+sentence-transformers>=3.3.0
+torch>=2.5.0
+numpy>=2.1.0
+
+# PDF Processing (Optional - at least one recommended)
+PyPDF2>=3.0.1
+pdfplumber>=0.11.4
+
+# Microsoft Office Documents (Optional)
+python-docx>=1.1.2
+python-pptx>=1.0.2
+openpyxl>=3.1.5
+
+# Data Processing (Optional - for Excel/CSV)
+pandas>=2.2.3
+
+# OCR / Image Processing (Optional)
+pytesseract>=0.3.13
+Pillow>=11.0.0
+
+# Smolagents agentic package
+
+smolagents==1.24.0
+
+# Gradio UI
+
+gradio==5.34.2
+

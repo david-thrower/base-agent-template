@@ -19,12 +19,19 @@ from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunct
 
 import gradio as gr
 
+
+PROJECT_NAME = "my_project"
+
+
+
 HF_TOKEN = os.getenv("HF_TOKEN")
+
+
 
 # Vector DB
 chroma_client = chromadb.PersistentClient(path="./chroma_db")
 embedding_fn = SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2")
-collection = chroma_client.get_collection("project_knowledge", embedding_function=embedding_fn)
+collection = chroma_client.get_collection(f"{PROJECT_NAME}_knowledge", embedding_function=embedding_fn)
 
 # Fireworks Model (NEW)
 model = InferenceClientModel(

@@ -2,13 +2,13 @@
 import os
 from smolagents import (
     Tool,
-    # InferenceClientModel,
+    InferenceClientModel,
     CodeAgent,
     GradioUI,
     WebSearchTool,
     WikipediaSearchTool,
     VisitWebpageTool,
-    # PythonInterpreterTool,
+    PythonInterpreterTool,
     UserInputTool,
     FinalAnswerTool,
     OpenAIServerModel
@@ -62,7 +62,7 @@ wiki = WikipediaSearchTool(
             content_type="summary",
             extract_format="WIKI",
 )
-# python_interpreter = PythonInterpreterTool()
+python_interpreter = PythonInterpreterTool()
 user_input = UserInputTool()
 final_answer = FinalAnswerTool()
 

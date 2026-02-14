@@ -43,5 +43,6 @@ jobs:
     - name: Run Agent 
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        EMAIL_ID: ${{ vars.EMAIL_ID }}
       run: |
         python3 1_agent.py &

@@ -19,11 +19,11 @@ from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunct
 
 import gradio as gr
 
-
 PROJECT_NAME = "my_project"
 
 
-
+# Set these envoronment variables
+EMAIL_ID = os.getenv("EMAIL_ID")
 HF_TOKEN = os.getenv("HF_TOKEN")
 
 

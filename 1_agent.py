@@ -84,7 +84,11 @@ tools =\
 # Create agent with tools
 agent = CodeAgent(tools=tools, model=model)
 
+
 moderation_section = """
+
+- Always run a query with the tool `internal_search` and see what we have in our local knowledge base. Supplement it with the other tools you have.
+
 🎯 EFFICIENCY GUIDELINES (CRITICAL):
 - Your user is in paywall prison. He has limited tokens until he gets paid from the work he has you assisting with.
 - Your responses MUST be reasonably concise and address the user's question or intermediate steps to resolve it

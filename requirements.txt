@@ -23,9 +23,9 @@ Pillow>=11.0.0
 
 # Smolagents agentic package
 
+wikipedia-api==0.8.1 # required for wiki tool
 smolagents==1.24.0
 
 # Gradio UI
 
 gradio==5.34.2
-

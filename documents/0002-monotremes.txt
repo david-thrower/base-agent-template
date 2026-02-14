@@ -1,0 +1,168 @@
+Monotremes (/ˈmɒnətriːmz/) are mammals of the order Monotremata. They are the only mammals still in existence which lay eggs, rather than bearing live young. The five extant monotreme species are the platypus and the four species of echidnas. Monotremes are typified by structural differences in their brains, jaws, digestive tracts, reproductive tracts, and other body parts, compared to the more common mammalian types. Although they are different from other living mammals in that they lay eggs, female monotremes are like other mammals in that they nurse their young with milk.
+
+Monotremes have been considered by some authors to be members of Australosphenida, a clade that contains extinct mammals from the Jurassic and Cretaceous of Madagascar, South America, and Australia, but this categorization is disputed and their taxonomy is under debate.
+
+All extant species of monotremes are indigenous to Australia and New Guinea, although they were also present during the Late Cretaceous and Paleocene epochs in southern South America, implying that they were also present in Antarctica, though remains have not yet been found there.
+
+The name monotreme derives from the Greek words μονός (monós 'single') and τρῆμα (trêma 'hole'), referring to the cloaca.
+General characteristics
+
+Like other mammals, monotremes are endothermic with a high metabolic rate, though not as high as other mammals; have hair on their bodies; produce milk through mammary glands to feed their young; have a single bone in their lower jaw; and have three middle ear bones.
+
+In common with marsupials, monotremes lack the connective structure (corpus callosum) which in placentals is the primary communication route between the right and left brain hemispheres.[4] The anterior commissure does provide an alternate communication route between the two hemispheres, though, and in monotremes and marsupials it carries all the commissural fibers arising from the neocortex, whereas in placental mammals the anterior commissure carries only some of these fibers.[5]
+Platypus
+Short-beaked echidna
+Diagram of a monotreme egg. (1) shell; (2) yolk; (3) yolk sac; (4) allantois; (5) embryo; (6) amniotic fluid; (7) amniotic membrane; and (8) membrane
+
+Extant monotremes lack teeth as adults. Fossil forms and modern platypus young have a "tribosphenic" form of molars (with the occlusal surface formed by three cusps arranged in a triangle), which is one of the hallmarks of extant mammals. Some recent work suggests that monotremes acquired this form of molar independently of placentals and marsupials,[6] although this hypothesis remains disputed.[7] Tooth loss in modern monotremes might be related to their development of electrolocation.[8]
+
+Monotreme jaws are constructed somewhat differently from those of other mammals, and the jaw opening muscle is different. As in all true mammals, the tiny bones that conduct sound to the inner ear are fully incorporated into the skull, rather than lying in the jaw as in non-mammalian cynodonts and other pre-mammalian synapsids; this feature, too, is now claimed to have evolved independently in monotremes and therians,[9] although, as with the analogous evolution of the tribosphenic molar, this hypothesis is disputed.[10][11] Nonetheless, findings on the extinct species Teinolophos confirm that suspended ear bones evolved independently among monotremes and therians.[12] The external opening of the ear still lies at the base of the jaw.
+
+The sequencing of the platypus genome has also provided insight into the evolution of a number of monotreme traits, such as venom and electroreception, as well as showing some new unique features, such as monotremes possessing five pairs of sex chromosomes which collectively behave as a single XY sex-determination system — during spermatogenesis, the ten sex chromosomes of the male form an alternating chain of X and Y chromosomes that recombine at the ends of consecutive chromosomes, and all the X or all the Y chromosomes are inherited together. One of the X chromosomes resembles the Z chromosome of birds,[13] suggesting that the two sex chromosomes of marsupial and placentals evolved after the split from the monotreme lineage.[14] Additional reconstruction through shared genes in sex chromosomes supports this hypothesis of independent evolution.[15] This feature, along with some other genetic similarities with birds, such as shared genes related to egg-laying, is thought to provide some insight into the most recent common ancestor of the synapsid lineage leading to mammals and the sauropsid lineage leading to birds and modern reptiles, which are believed to have split about 315 million years ago during the Carboniferous.[16][17] The presence of vitellogenin genes (a protein necessary for egg yolk formation) is shared with birds; the presence of this symplesiomorphy suggests that the common ancestor of monotremes, marsupials, and placentals was oviparous, and that this trait was retained in monotremes but lost in all other extant mammal groups. DNA analyses suggest that although this trait is shared and is synapomorphic with birds, platypuses are still mammals and that the common ancestor of extant mammals lactated.[18]
+
+The monotremes also have extra bones in the shoulder girdle, including an interclavicle and coracoid, which are not found in other mammals. Monotremes retain a reptile-like gait, with legs on the sides of, rather than underneath, their bodies. The monotreme leg bears a spur in the ankle region; the spur is not functional in echidnas, but contains a powerful venom in the male platypus. This venom is derived from β-defensins, proteins that are present in mammals that create holes in viral and bacterial pathogens. Some reptile venom is also composed of different types of β-defensins, another trait shared with reptiles.[16] It is thought to be an ancient mammalian characteristic, as many non-monotreme archaic mammal groups also possess venomous spurs.[19]
+Reproductive system
+Further information: Echidna § Reproduction, and Platypus § Reproduction
+
+The key anatomical difference between monotremes and other mammals gives them their name; monotreme means "single opening" in Greek, referring to the single duct (the cloaca) for their urinary, defecatory, and reproductive systems. Like birds and reptiles, monotremes have a single cloaca.[20] Marsupials have a separate genital tract, whereas most placental females have separate openings for reproduction (the vagina), urination (the urethra), and defecation (the anus). In monotremes, only semen passes through the penis while urine is excreted through the male's cloaca.[21] The monotreme penis is similar to that of turtles and is covered by a preputial sac.[22][23] Male monotremes do not have a prostate or seminal vesicles.[24]
+
+Monotreme eggs are retained for some time within the mother and receive nutrients directly from her, generally hatching within ten days after being laid – much shorter than the incubation period of sauropsid eggs.[25][26] Much like newborn marsupials (and perhaps all non-placentals[27]), newborn monotremes, called "puggles",[28] are larval- and fetus-like and have relatively well-developed forelimbs that enable them to crawl around. Monotremes lack teats, so puggles crawl about more frequently than marsupial joeys in search of milk. This difference raises questions about the supposed developmental restrictions on marsupial forelimbs.[clarification needed][29]
+
+Rather than through teats, monotremes lactate from their mammary glands via openings in their skin. All five extant species show prolonged parental care of their young, with low rates of reproduction and relatively long life-spans.
+
+Monotremes are also noteworthy in their zygotic development: most mammalian zygotes go through holoblastic cleavage, where the ovum splits into multiple, divisible daughter cells. In contrast, monotreme zygotes, like those of birds and reptiles, undergo meroblastic (partial) division. This means that the cells at the yolk's edge have cytoplasm continuous with that of the egg, allowing the yolk and embryo to exchange waste and nutrients with the surrounding cytoplasm.[16]
+Physiology
+Monotreme female reproductive organs
+Male platypus reproductive system. 1. Testes, 2. Epididymis, 3. Bladder, 4. Rectum, 5. Ureter, 6. Vas Deferens, 7. Genito-urinary sinus, 8. Penis enclosed in a fibrous sheath, 9. Cloaca, 10. Opening in the ventral wall of the cloaca for the penis.
+
+Monotremes' metabolic rate is remarkably low by mammalian standards. The platypus has an average body temperature of about 31 °C (88 °F) rather than the averages of 35 °C (95 °F) for marsupials and 37 °C (99 °F) for placentals.[30][31] Research suggests this has been a gradual adaptation to the harsh, marginal environmental niches in which the few extant monotreme species have managed to survive, rather than a general characteristic of extinct monotremes.[32][33]
+
+Monotremes may have less developed thermoregulation than other mammals, but recent research shows that they easily maintain a constant body temperature in a variety of circumstances, such as the platypus in icy mountain streams. Early researchers were misled by two factors: firstly, monotremes maintain a lower average temperature than most mammals; secondly, the short-beaked echidna, much easier to study than the reclusive platypus, maintains normal temperature only when active; during cold weather, it conserves energy by "switching off" its temperature regulation. Understanding of this mechanism came when reduced thermal regulation was observed in the hyraxes, which are placentals.
+
+The echidna was originally thought to experience no rapid eye movement sleep (REM).[34] However, a more recent study showed that REM sleep accounted for about 15% of sleep time observed on subjects at an environmental temperature of 25 °C (77 °F). Surveying a range of environmental temperatures, the study observed very little REM at reduced temperatures of 15 °C (59 °F) and 20 °C (68 °F), and also a substantial reduction at the elevated temperature of 28 °C (82 °F).[35]
+
+Monotreme milk contains a highly expressed antibacterial protein not found in other mammals, perhaps to compensate for the more septic manner of milk intake associated with the absence of teats.[36]
+
+During the course of evolution, the monotremes have lost the gastric glands normally found in mammalian stomachs as an adaptation to their diet.[37] As such, by some definitions, they do not have stomachs as an organ,[38] although the term is widely used in studies of monotreme anatomy.[39][40] Monotremes synthesize L-ascorbic acid only in the kidneys.[41]
+
+Both the platypus and echidna species have spurs on their hind limbs. The echidna spurs are vestigial and have no known function, while the platypus spurs contain venom.[42] Molecular data show that the main component of platypus venom emerged before the divergence of platypus and echidnas, suggesting that the most recent common ancestor of these taxa was also possibly a venomous monotreme.[43]
+Taxonomy
+
+The traditional "Theria hypothesis" states that the divergence of the monotreme lineage from the Metatheria (marsupial) and Eutheria (placental) lineages happened prior to the divergence between marsupials and placentals, and this explains why monotremes retain a number of primitive traits presumed to have been present in the synapsid ancestors of later mammals, such as egg-laying.[44][45][46] Most morphological evidence supports the Theria hypothesis, but one possible exception is a similar pattern of tooth replacement seen in monotremes and marsupials, which originally provided the basis for the competing "Marsupionta" hypothesis in which the divergence between monotremes and marsupials happened later than the divergence between these lineages and the placentals. Van Rheede (2005) concluded that the genetic evidence favors the Theria hypothesis,[47] and this hypothesis continues to be the more widely accepted one.[48]
+
+Monotremes are conventionally treated as comprising a single order Monotremata. The entire grouping is also traditionally placed into a subclass Prototheria, which was extended to include several fossil orders, but these are no longer seen as constituting a group allied to monotreme ancestry. A controversial hypothesis now relates the monotremes to a different assemblage of fossil mammals in a clade termed Australosphenida, a group of mammals from the Jurassic and Cretaceous of Madagascar, South America and Australia, that share tribosphenic molars.[6][49] However, in a 2022 review of monotreme evolution, it was noted that Teinolophos, the oldest (Barremian ~ 125 million years ago) and the most primitive monotreme differed substantially from non-monotreme australosphenidans in having five molars as opposed to the three present in non-monotreme australosphenidians. Aptian and Cenomanian monotremes of the family Kollikodontidae (113–96.6 ma) have four molars. This suggests that the monotremes are likely to be unrelated to the australosphenidan tribosphenids.[50]
+
+The time when the monotreme line diverged from other mammalian lines is uncertain, but one survey of genetic studies gives an estimate of about 220 million years ago,[51] while others have posited younger estimates of 163 to 186 million years ago (though the already eutherian Juramaia is dated to 161–160 million years ago). Teinolophos like modern monotremes displays adaptations to elongation and increased sensory perception in the jaws, related to mechanoreception or electroreception.[50]
+Duration: 44 seconds.0:44
+An echidna excavating a defensive burrow on French Island
+
+Molecular clock and fossil dating give a wide range of dates for the split between echidnas and platypuses, with one survey putting the split at 19–48 million years ago,[52] but another putting it at 17–89 million years ago.[53] It has been suggested that both the short-beaked and long-beaked echidna species are derived from a platypus-like ancestor.[50]
+
+The precise relationships among extinct groups of mammals and modern groups such as monotremes are uncertain, but cladistic analyses usually put the last common ancestor (LCA) of placentals and monotremes close to the LCA of placentals and multituberculates, whereas some suggest that the LCA of placentals and multituberculates was more recent than the LCA of placentals and monotremes.[54][55]
+Phylogeny of a 5,911 species 31 gene supertree[56][57]
+Monotremata 	
+Ornithorhynchidae 	
+
+Ornithorhynchus anatinus
+Tachyglossidae 	
+	
+
+Tachyglossus aculeatus
+	
+Zaglossus 	
+	
+
+Z. bartoni
+	
+	
+
+Z. attenboroughi
+	
+
+Z. bruijnii
+
+    ORDER MONOTREMATA
+        Superfamily Ornithorhynchoidea
+            Family Ornithorhynchidae: platypus
+                Genus Ornithorhynchus
+                    Platypus, O. anatinus
+            Family Tachyglossidae: echidnas
+                Genus Tachyglossus
+                    Short-beaked echidna, T. aculeatus
+                        T. a. aculeatus (Common short-beaked echidna)
+                        T. a. acanthion (Northern short-beaked echidna)
+                        T. a. lawesii (New Guinea short-beaked echidna)
+                        T. a. multiaculeatus (Kangaroo Island short-beaked echidna)
+                        T. a. setosus (Tasmanian short-beaked echidna)
+                Genus Zaglossus
+                    Sir David's long-beaked echidna, Z. attenboroughi
+                    Eastern long-beaked echidna, Z. bartoni
+                        Z. b. bartoni
+                        Z. b. clunius
+                        Z. b. diamondi
+                        Z. b. smeenki
+                    Western long-beaked echidna, Z. bruijni
+
+Summary of extant species
+Common name 	Binomial name 	Population 	Status 	Trend 	Notes 	Image
+Sir David's long-beaked echidna 	Zaglossus attenboroughi 	unknown[58] 	CR[58] 	Decrease[58] 	No records since 1961, but evidence of the species was found during surveys in 2007.[58] 	
+Western long-beaked echidna 	Zaglossus bruijnii 	unknown[59] 	CR[59] 	Decrease[59] 	No definitive records since 1980s.[59] 	
+Eastern long-beaked echidna 	Zaglossus bartoni 	10,000[60] 	VU[60] 	Decrease[60] 		
+Platypus 	Ornithorhynchus anatinus 	30,000-300,000[61] 	NT[61] 	Decrease[61] 	Best estimate for number of mature individuals is 50,000.[61] 	
+Short-beaked echidna 	Tachyglossus aculeatus 	5,000,000-50,000,000[62] 	LC[63] 	Steady[63] 	IUCN Assessment does not report a population estimate.[63] 	
+Fossil monotremes
+See also: Evolution of mammals
+A model of the extinct monotreme Steropodon at the Australian Museum
+
+The first Mesozoic monotreme to be discovered was the Cenomanian (100–96.6 Ma) Steropodon galmani from Lightning Ridge, New South Wales.[64] Biochemical and anatomical evidence suggests that the monotremes diverged from the mammalian lineage before the marsupials and placentals arose. The only Mesozoic monotremes are Teinolophos (Barremian, 126 Ma), Sundrius and Kryoryctes (Albian, 113–108 Ma), and Dharragarra, Kollikodon, Opalios, Parvopalus, Steropodon, and Stirtodon (all Cenomanian, 100.2–96.6 Ma) from Australian deposits, and Patagorhynchus (Maastrichtian) from Patagonian deposits in the Cretaceous, indicating that monotremes were diversifiying by the early Late Cretaceous.[65] Monotremes have been found in the latest Cretaceous and Paleocene of southern South America, so one hypothesis is that monotremes arose in Australia in the Late Jurassic or Early Cretaceous, and that some migrated across the Antarctic land bridge to South America, both of which were still united with Australia at that time.[66][67] This direction of migration is the opposite of that hypothesized for Australia's other dominant mammal group, the marsupials, which likely migrated across Antarctica to Australia from South America.[68]
+
+In 2024, a prominent assemblage of early monotremes was described from the Cenomanian deposits (100–96.6 Ma) of the Griman Creek Formation in Lightning Ridge, New South Wales. One of these, the fossil jaw fragment of Dharragarra, is the oldest known platypus-like fossil.[50][3][69] The durophagous Kollikodon, the pseudotribosphenic Steropodon, and Stirtodon, Dharragarra, Opalios, and Parvopalus occur in the same Cenomanian deposits. Oligo-Miocene fossils of the toothed platypus Obdurodon have also been recovered from Australia, and fossils of a 63 million-year old platypus relative occur in southern Argentina (Monotrematum), see fossil monotremes below. The extant platypus genus Ornithorhynchus in also known from Pliocene deposits, and the oldest fossil tachyglossids are Pleistocene (1.7 Ma) in age.[50]
+Fossil species
+A 100 million-year-old Steropodon jaw on display at the American Museum of Natural History, New York City, USA
+Duration: 1 minute and 16 seconds.1:16
+Platypuses swimming at Sydney Aquarium
+
+Excepting Ornithorhynchus anatinus, all the animals listed in this section are known only from fossils. Some family designations are hesitant, given the fragmentary nature of the specimens.[3]
+
+    Family †Kollikodontidae
+        Genus †Kollikodon
+            Species †Kollikodon ritchiei
+        Genus †Kryoryctes
+            Species †Kryoryctes cadburyi
+        Genus †Sundrius
+            Species †Sundrius ziegleri
+    Family †Steropodontidae
+        Genus †Parvopalus
+            Species †Parvopalus clytiei
+        Genus †Steropodon
+            Species †Steropodon galmani
+    Family †Teinolophidae
+        Genus †Stirtodon
+            Species †Stirtodon elizabethae
+        Genus †Teinolophos
+            Species †Teinolophos trusleri – 123 Ma, oldest monotreme specimen
+    Superfamily Ornithorhynchoidea
+        Family †Opalionidae
+            Genus †Opalios
+                Species †Opalios splendens
+        Family Ornithorhynchidae
+            Genus †Dharragarra
+                Species †Dharragarra aurora
+            Genus †Monotrematum
+                Species †Monotrematum sudamericanum – 61 Ma, southern South America
+            Genus Ornithorhynchus – oldest Ornithorhynchus specimen 9 Ma
+                Species Ornithorhynchus anatinus (platypus) – oldest specimen 10,000 years old
+            Genus †Obdurodon – includes a number of Miocene (24–5 Ma) Riversleigh platypuses
+                Species †Obdurodon dicksoni
+                Species †Obdurodon insignis
+                Species †Obdurodon tharalkooschild – Middle Miocene and Upper Miocene (15–5 Ma)
+            Genus †Patagorhynchus
+                Species †Patagorhynchus pascuali - Maastrichtian, earliest known South American monotreme[67]
+        Family Tachyglossidae
+            Genus Zaglossus – Upper Pleistocene (1.8–0.1 Ma)
+                Species†Zaglossus robustus
+            Genus †Murrayglossus
+                Species †Murrayglossus hacketti
+            Genus †Megalibgwilia
+                Species †Megalibgwilia ramsayi – Late Pleistocene
+                Species †Megalibgwilia robusta – Miocene

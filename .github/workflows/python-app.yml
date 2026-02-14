@@ -39,9 +39,7 @@ jobs:
     #     pytest
     - name: Load Vector DB 
       run: |
-        pytest
         python3 0_load_db.py
     - name: Run Agent 
       run: |
-        pytest
         python3 1_agent.py

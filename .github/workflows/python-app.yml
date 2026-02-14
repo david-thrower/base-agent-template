@@ -44,4 +44,4 @@ jobs:
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
       run: |
-        python3 1_agent.py
+        python3 1_agent.py &

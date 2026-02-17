@@ -55,4 +55,6 @@ jobs:
     - name: Docker Build 
       run: |
         docker build -t base-agent:${{ github.run_id }} .
-        docker run -t -e HF_TOKEN=${{ secrets.HF_TOKEN }} -e EMAIL_ID=${{ vars.EMAIL_ID }} base-agent:${{ github.run_id }}
+    - name: Docker Run 
+      run: |
+        docker run -t -e HF_TOKEN=${{ secrets.HF_TOKEN }} -e EMAIL_ID=${{ vars.EMAIL_ID }} base-agent:${{ github.run_id }} &

@@ -60,10 +60,13 @@ jobs:
         VOL: ${{ github.workspace }}/data
       run: |
         mkdir -p $VOL
-        docker run -d \
+        docker run -t \
             --name agent \
             -e HF_TOKEN=${{ secrets.HF_TOKEN }} \
             -e EMAIL_ID=${{ vars.EMAIL_ID }} \
             -v $VOL:/data base-agent:${{ github.run_id }}
-        sleep 15  # Wait for Gradio tunnel to establish
-        docker logs agent
+        # sleep 15  # Wait for Gradio tunnel to establish
+        # docker logs agent
+        # sleep 180
+        # docker logs agent
+        # sleep 1800

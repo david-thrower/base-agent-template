@@ -40,12 +40,12 @@ jobs:
     - name: Load Vector DB 
       run: |
         python3 0_load_db.py
-    - name: Lint Agent 
-      env:
-        HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        EMAIL_ID: ${{ vars.EMAIL_ID }}
-      run: |
-        python3 1_lint_agent.py
+    # - name: Lint Agent 
+    #   env:
+    #     HF_TOKEN: ${{ secrets.HF_TOKEN }}
+    #     EMAIL_ID: ${{ vars.EMAIL_ID }}
+    #   run: |
+    #     python3 1_lint_agent.py
     - name: Run Agent 
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}

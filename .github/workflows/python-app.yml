@@ -5,9 +5,9 @@ name: Python application
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "*" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "*" ]
 
 permissions:
   contents: read
@@ -52,3 +52,7 @@ jobs:
         EMAIL_ID: ${{ vars.EMAIL_ID }}
       run: |
         python3 2_run_agent.py &
+    - name: Docker Build 
+      run: |
+        docker build -t base-agent:${{ github.run_id }} .
+        docker run -t -e HF_TOKEN=${{ secrets.HF_TOKEN }} -e EMAIL_ID=${{ vars.EMAIL_ID }} base-agent:${{ github.run_id }}

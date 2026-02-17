@@ -8,6 +8,7 @@ import re
 TARGET_TOKENS = 150
 PROJECT_NAME = "my_project"
 
+DB_PATH = "/data/user/chroma_db"
 
 # Document extraction libraries
 try:
@@ -60,7 +61,7 @@ except ImportError:
 
 # ==================== 1. SETUP VECTOR DB ====================
 # Persistent storage in ./chroma_db folder
-chroma_client = chromadb.PersistentClient(path="./chroma_db")
+chroma_client = chromadb.PersistentClient(path=DB_PATH)
 
 # Local embeddings (free, offline, fast for internal use)
 # all-MiniLM-L6-v2 has a 256 token limit, but optimal chunking is typically 128-256 tokens

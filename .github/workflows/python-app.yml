@@ -56,7 +56,8 @@ jobs:
       run: |
         docker build -t base-agent:${{ github.run_id }} .
     - name: Docker Run 
+      env:
+        VOL: ${{ github.workspace }}/data
       run: |
-        export VOL="$(pwd)"/data
-        mkdir $VOL
+        mkdir -p $VOL
         docker run -t -e HF_TOKEN=${{ secrets.HF_TOKEN }} -e EMAIL_ID=${{ vars.EMAIL_ID }} -v $VOL:/data base-agent:${{ github.run_id }} # &

@@ -5,6 +5,6 @@ COPY . .
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
-# EXPOSE 7680
+RUN python 0_load_db.py
 
 ENTRYPOINT ["python", "2_run_agent.py"]

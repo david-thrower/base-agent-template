@@ -104,4 +104,9 @@ moderation_section = """
 agent.prompt_templates["system_prompt"] = agent.prompt_templates["system_prompt"] + moderation_section
 
 # Launch Gradio UI
-GradioUI(agent).launch(share=True, quiet=False)
+agent_server = GradioUI(agent)
+
+_, local_url, share_url = agent_server.launch(share=True)
+
+print(f"Local URL: {local_url}", flush=True)
+print(f"Public URL: {share_url}", flush=True)

@@ -60,7 +60,7 @@ jobs:
         VOL: ${{ github.workspace }}/data
       run: |
         mkdir -p $VOL
-        docker docker run -d \
+        docker run -d \
             --name agent \
             -e HF_TOKEN=${{ secrets.HF_TOKEN }} \
             -e EMAIL_ID=${{ vars.EMAIL_ID }} \

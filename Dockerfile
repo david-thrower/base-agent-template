@@ -3,7 +3,7 @@ FROM python:3.12
 WORKDIR /opt
 COPY . .
 RUN pip install --upgrade pip
-RUN pip install -r requitements.txt
+RUN pip install -r requirements.txt
 
 EXPOSE 7680
 

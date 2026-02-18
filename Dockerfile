@@ -5,7 +5,7 @@ COPY . .
 
 RUN pip install --upgrade pip && pip install -r requirements.txt
 
-RUN python 0_load_db.py
+# RUN python 0_load_db.py
 
 RUN chmod +x entrypoint.sh
 

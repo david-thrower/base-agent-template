@@ -31,4 +31,4 @@ smolagents==1.24.0
 
 # Gradio UI
 
-gradio==5.34.2
+gradio==6.6.0

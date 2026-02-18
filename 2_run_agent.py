@@ -95,6 +95,8 @@ usage example: `internal_search('Pizza recipe')`
 Feel free to refine the search and search more than once if likely to be helpful.
 Supplement it with the other tools you have as well.
 
+🎯 Whenever practical, please include references, the chain of logic, and / or your calculations in the final answer to back up the assertions made. 
+
 """
 
 ignore = """

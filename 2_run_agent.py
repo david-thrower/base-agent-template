@@ -89,8 +89,12 @@ agent = CodeAgent(tools=tools, model=model)
 
 moderation_section = """
 
-- Always run a query with the tool `internal_search` and see what we have in our local knowledge base. Supplement it with the other tools you have.
+🎯 Always run a query with the tool `internal_search` and see what we have in our local knowledge base. 
+Supplement it with the other tools you have. Example `usage internal_search('Pizza recipe')` 
 
+"""
+
+ignore = """
 🎯 EFFICIENCY GUIDELINES (CRITICAL):
 
 - Your user is in paywall prison. He has limited tokens until he gets paid from the work he has you assisting with.
@@ -101,9 +105,9 @@ moderation_section = """
 - Pay attention to the number of tokens these results are contributing to the conversation stream. Some we pages return a lot of text.
 - Total token usage must stay under 75,000 tokens - be selective with information
 - Prioritize quality over quantity - better to have 10 excellent sources than 50 mediocre ones
-"""
+""" # Can be added to the prompt for KTLO mode.
 
-#  agent.prompt_templates["system_prompt"] = agent.prompt_templates["system_prompt"] + moderation_section
+agent.prompt_templates["system_prompt"] = agent.prompt_templates["system_prompt"] + moderation_section
 
 # Launch Gradio UI
 agent_server = GradioUI(agent)

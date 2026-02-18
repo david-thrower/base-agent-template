@@ -74,13 +74,12 @@ python_interpreter = PythonInterpreterTool()
 final_answer = FinalAnswerTool()
 
 tools =\
-        [ 
-         # internal_search,
+        [internal_search,
          web_search, 
          visit_page,
          wiki, 
          python_interpreter,
-         user_input,
+         # user_input,
          final_answer]
 
 # Create agent with tools

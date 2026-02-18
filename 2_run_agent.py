@@ -88,8 +88,12 @@ agent = CodeAgent(tools=tools, model=model)
 
 moderation_section = """
 
-🎯 Always run a query with the tool `internal_search` and see what we have in our local knowledge base. 
-Supplement it with the other tools you have. Example `usage internal_search('Pizza recipe')` 
+🎯 Always run a query with the tool `internal_search` and see what we have in our local knowledge base. It is a vector database.
+
+usage example: `internal_search('Pizza recipe')`
+
+Feel free to refine the search and search more than once if likely to be helpful.
+Supplement it with the other tools you have as well.
 
 """
 

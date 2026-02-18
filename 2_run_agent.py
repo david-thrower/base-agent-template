@@ -9,9 +9,9 @@ from smolagents import (
     WikipediaSearchTool,
     VisitWebpageTool,
     PythonInterpreterTool,
-    UserInputTool,
+    # UserInputTool,
     FinalAnswerTool,
-    OpenAIServerModel
+    # OpenAIServerModel
 )
 
 import chromadb
@@ -70,11 +70,12 @@ wiki = WikipediaSearchTool(
             extract_format="WIKI",
 )
 python_interpreter = PythonInterpreterTool()
-user_input = UserInputTool()
+# user_input = UserInputTool()
 final_answer = FinalAnswerTool()
 
 tools =\
-        [internal_search,
+        [ 
+         # internal_search,
          web_search, 
          visit_page,
          wiki, 
@@ -91,6 +92,7 @@ moderation_section = """
 - Always run a query with the tool `internal_search` and see what we have in our local knowledge base. Supplement it with the other tools you have.
 
 🎯 EFFICIENCY GUIDELINES (CRITICAL):
+
 - Your user is in paywall prison. He has limited tokens until he gets paid from the work he has you assisting with.
 - Your responses MUST be reasonably concise and address the user's question or intermediate steps to resolve it
 - DO NOT generate excessive content or use repetitive illustrations beyond what's needed, except in the final answer. There, you may elaborate.
@@ -101,7 +103,7 @@ moderation_section = """
 - Prioritize quality over quantity - better to have 10 excellent sources than 50 mediocre ones
 """
 
-agent.prompt_templates["system_prompt"] = agent.prompt_templates["system_prompt"] + moderation_section
+#  agent.prompt_templates["system_prompt"] = agent.prompt_templates["system_prompt"] + moderation_section
 
 # Launch Gradio UI
 agent_server = GradioUI(agent)

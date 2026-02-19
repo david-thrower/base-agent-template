@@ -26,10 +26,10 @@ PROJECT_NAME = "my_project"
 EMAIL_ID = os.getenv("EMAIL_ID")
 HF_TOKEN = os.getenv("HF_TOKEN")
 
-
+DB_PATH = "/data/user/chroma_db"
 
 # Vector DB
-chroma_client = chromadb.PersistentClient(path="./chroma_db")
+chroma_client = chromadb.PersistentClient(path=DB_PATH)
 embedding_fn = SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2")
 collection = chroma_client.get_collection(f"{PROJECT_NAME}_knowledge", embedding_function=embedding_fn)
 

@@ -2,9 +2,11 @@ FROM python:3.12
 
 WORKDIR /opt
 COPY . .
-RUN pip install --upgrade pip
-RUN pip install -r requirements.txt
 
-# EXPOSE 7680
+RUN pip install --upgrade pip && pip install -r requirements.txt
 
-ENTRYPOINT ["python", "2_run_agent.py"]
+# RUN python 0_load_db.py
+
+RUN chmod +x entrypoint.sh
+
+ENTRYPOINT ["./entrypoint.sh"]
